@@ -10,7 +10,7 @@ require (
 	github.com/Azure/azure-storage-blob-go v0.14.0
 	github.com/Azure/go-autorest/autorest/adal v0.9.17
 	github.com/Azure/go-ntlmssp v0.0.0-20200615164410-66371956d46c
-	github.com/Max-Sum/base32768 v0.0.0-20191205131208-7937843c71d5 // indirect
+	github.com/Max-Sum/base32768 v0.0.0-20191205131208-7937843c71d5
 	github.com/Unknwon/goconfig v0.0.0-20200908083735-df7de6a44db8
 	github.com/a8m/tree v0.0.0-20210414114729-ce3525c5c2ef
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
@@ -62,11 +62,11 @@ require (
 	go.etcd.io/bbolt v1.3.6
 	goftp.io/server v0.4.1
 	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
-	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
-	golang.org/x/text v0.3.7
+	golang.org/x/sys v0.5.0
+	golang.org/x/text v0.7.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	google.golang.org/api v0.60.0
 	gopkg.in/yaml.v2 v2.4.0
@@ -119,7 +119,7 @@ require (
 	github.com/vivint/infectious v0.0.0-20200605153912-25a574ae18a3 // indirect
 	github.com/zeebo/errs v1.2.2 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
+	golang.org/x/term v0.5.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20211104193956-4c6863e31247 // indirect
 	google.golang.org/grpc v1.42.0 // indirect
